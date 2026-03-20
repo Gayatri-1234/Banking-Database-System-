@@ -1,0 +1,36 @@
+SQL Queries
+
+1. Retrieve a list of all customers with their first and last names.
+ 
+2. Find the balance of a specific customer's account by customer_id.
+ 
+3. Calculate the total balance of all customer accounts combined.
+ 
+4. Count how many accounts each customer has.
+ 
+5. Find customers who have more than one account. 
+
+6. Find the average balance for each account type
+ 
+7. Identify which account has the highest number of transactions
+ 
+8. Identify accounts that have withdrawal more than $1000 in total.
+ 
+9. Find the customer name along with their account balance by joining the Customers and Accounts tables.
+
+10. Find Accounts without Transactions
+ 
+11. Get All Accounts with Their Total Transaction Amount
+ 
+12. Generate All Possible Customer and balance Combinations
+
+13. Get All Transactions and Their Account Details
+ 
+14. Get account type with account id and customer id
+ 
+1. View for Customers with More Than One Account
+
+16.View for Customer Account Information
+
+ 
+
